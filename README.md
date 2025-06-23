@@ -68,7 +68,12 @@ For each problem, we categorize the learning tasks into two types:
 |                        | MPE                    | x            |              | x                |                  | [1, 7]                   |
 
 ## Results
+![result1](2.2.1_Q3_best_result.jpg)
+![result2](2.3__best_result.jpg)
+![result3](3.2.3__best_result.jpg)
+![result4](6.__best_result.jpg)
 
+- Supplemental results for article: https://drive.google.com/drive/folders/1OsjvuBBlakm7mUlVEMXrgePbtCOZTqzw?usp=sharing
 
 ## Code usage
 - Naive model architecture using CNOT gates: `2_model_cnot_elayout.py`
