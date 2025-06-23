@@ -4,7 +4,7 @@ Understanding the dynamics of T helper 1 (Th1) and T helper 2 (Th2) cells is a k
 
 ## Model archicture
 
-![Quantum Circuit](quantumCircuit.png)
+![Quantum Circuit](quantumCircuit.jpg)
 
 ## Biological analogy to quantum entanglement
 
