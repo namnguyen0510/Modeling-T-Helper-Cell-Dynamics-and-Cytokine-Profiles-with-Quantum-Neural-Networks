@@ -67,6 +67,9 @@ For each problem, we categorize the learning tasks into two types:
 | Zeng et al., 2022      | TPE                    | x            |              |                  | x                | [0, 1]                   |
 |                        | MPE                    | x            |              | x                |                  | [1, 7]                   |
 
+## Results
+
+
 ## Code usage
 - Naive model architecture using CNOT gates: `2_model_cnot_elayout.py`
 - Alternative model architecture using CZ gates: `1_model_cz_elayout.py`
