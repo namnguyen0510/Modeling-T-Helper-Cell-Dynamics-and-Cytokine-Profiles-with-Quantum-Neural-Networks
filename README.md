@@ -4,7 +4,7 @@ Understanding the dynamics of T helper 1 (Th1) and T helper 2 (Th2) cells is a k
 
 ## Code usage
 - Naive model architecture using CNOT gates: `2_model_cnot_elayout.py`
-- Alternative model architecture using CZ gates: `1_1_model_cz_elayout.py`
+- Alternative model architecture using CZ gates: `1_model_cz_elayout.py`
 
 Evaluation code on benchmarking datasets:
 ```python
